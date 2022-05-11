@@ -30,6 +30,8 @@ out/
 
 ### VS Code ###
 .vscode/
+.idea
+target
 
 ### Package Files ###
 *.jar
